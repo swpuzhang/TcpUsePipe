@@ -1,0 +1,11 @@
+C:\Users\Administrator\Downloads\TcpEcho-master\src\PipelinesServer\bin\Debug\netcoreapp2.1\PipelinesServer.deps.json
+C:\Users\Administrator\Downloads\TcpEcho-master\src\PipelinesServer\bin\Debug\netcoreapp2.1\PipelinesServer.runtimeconfig.json
+C:\Users\Administrator\Downloads\TcpEcho-master\src\PipelinesServer\bin\Debug\netcoreapp2.1\PipelinesServer.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\TcpEcho-master\src\PipelinesServer\bin\Debug\netcoreapp2.1\PipelinesServer.dll
+C:\Users\Administrator\Downloads\TcpEcho-master\src\PipelinesServer\bin\Debug\netcoreapp2.1\PipelinesServer.pdb
+C:\Users\Administrator\Downloads\TcpEcho-master\src\PipelinesServer\obj\Debug\netcoreapp2.1\PipelinesServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\TcpEcho-master\src\PipelinesServer\obj\Debug\netcoreapp2.1\PipelinesServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\TcpEcho-master\src\PipelinesServer\obj\Debug\netcoreapp2.1\PipelinesServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\TcpEcho-master\src\PipelinesServer\obj\Debug\netcoreapp2.1\PipelinesServer.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\TcpEcho-master\src\PipelinesServer\obj\Debug\netcoreapp2.1\PipelinesServer.dll
+C:\Users\Administrator\Downloads\TcpEcho-master\src\PipelinesServer\obj\Debug\netcoreapp2.1\PipelinesServer.pdb

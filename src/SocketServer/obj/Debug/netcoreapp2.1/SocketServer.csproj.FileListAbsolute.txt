@@ -1,0 +1,11 @@
+C:\Users\Administrator\Downloads\TcpEcho-master\src\SocketServer\bin\Debug\netcoreapp2.1\SocketServer.deps.json
+C:\Users\Administrator\Downloads\TcpEcho-master\src\SocketServer\bin\Debug\netcoreapp2.1\SocketServer.runtimeconfig.json
+C:\Users\Administrator\Downloads\TcpEcho-master\src\SocketServer\bin\Debug\netcoreapp2.1\SocketServer.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\TcpEcho-master\src\SocketServer\bin\Debug\netcoreapp2.1\SocketServer.dll
+C:\Users\Administrator\Downloads\TcpEcho-master\src\SocketServer\bin\Debug\netcoreapp2.1\SocketServer.pdb
+C:\Users\Administrator\Downloads\TcpEcho-master\src\SocketServer\obj\Debug\netcoreapp2.1\SocketServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\TcpEcho-master\src\SocketServer\obj\Debug\netcoreapp2.1\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\TcpEcho-master\src\SocketServer\obj\Debug\netcoreapp2.1\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\TcpEcho-master\src\SocketServer\obj\Debug\netcoreapp2.1\SocketServer.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\TcpEcho-master\src\SocketServer\obj\Debug\netcoreapp2.1\SocketServer.dll
+C:\Users\Administrator\Downloads\TcpEcho-master\src\SocketServer\obj\Debug\netcoreapp2.1\SocketServer.pdb
